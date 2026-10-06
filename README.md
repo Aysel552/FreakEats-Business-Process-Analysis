@@ -21,7 +21,7 @@ improved process flow.
 The AS-IS model represents the current FreakEats food delivery
 process before the proposed improvements.
 
-![FreakEats AS-IS Process Flow](diagrams/FreakEats-AS-IS-Process-Flow.png)
+![FreakEats AS-IS Process Flow](FreakEats-AS-IS-Process-Flow.png)
 
 ## Identified Pain Points
 
@@ -57,7 +57,7 @@ reassigned to reduce unnecessary waiting time.
 
 ## Improved Process Flow
 
-![FreakEats TO-BE Process Flow](diagrams/FreakEats-TO-BE-Process-Flow.png)
+![FreakEats TO-BE Process Flow](FreakEats-TO-BE-Process-Flow.png)
 
 The improved process uses swimlanes to represent responsibilities across
 the Customer, Restaurant, and Delivery Partner stakeholders.
